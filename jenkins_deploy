@@ -10,3 +10,4 @@ app=$(kubectl get  ingress -n $NAMESPACE |base64 | tr -d '\r')
 echo app running at $app
 chmod +x result.sh
 ./result.sh ${app}
+cd jpetstore
