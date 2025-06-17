@@ -11,6 +11,8 @@ This demo modernizes an existing Java web application (JPetStore) by:
 
 ## Before you begin
 
+## Before you begin
+
 Follow the below steps to create resources used in this demo. You will create a Kubernetes cluster.
 
 1. Create azure database for mysql servers and note down username, servername and password.[](https://docs.microsoft.com/en-us/azure/mysql/quickstart-create-mysql-server-database-using-azure-portal)
