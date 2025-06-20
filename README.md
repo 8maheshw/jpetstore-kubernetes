@@ -7,6 +7,8 @@ This demo modernizes an existing Java web application (JPetStore) by:
 
 ![](readme_images/dbaas.png)
 
+Updating the readme document
+
 [![Containerized Applications with IBM Cloud Kubernetes Service](readme_images/youtube_play.png)](https://youtu.be/26RjSa0UZp0 "Containerized Applications with IBM Cloud Kubernetes")
 
 ## Before you begin
